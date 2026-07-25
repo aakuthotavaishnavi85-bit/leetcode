@@ -9,4 +9,11 @@ class Solution:
                 nums.remove(i)
                 nums.append(i)
         return nums
+    
+      
         
+
+
+
+
+   
