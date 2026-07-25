@@ -15,11 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
