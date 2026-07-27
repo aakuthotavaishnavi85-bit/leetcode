@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
