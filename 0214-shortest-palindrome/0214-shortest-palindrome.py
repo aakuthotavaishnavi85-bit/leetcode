@@ -8,8 +8,6 @@ class Solution:
                     break
             remaining=s[i:]
             return remaining[::-1]+s
-        elif n==1:
-            return s
         else:
             return ""
 
