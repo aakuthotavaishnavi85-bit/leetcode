@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0214-shortest-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
