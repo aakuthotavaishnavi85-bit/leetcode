@@ -1,6 +1,5 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-
         group={}
         for i in strs:
             k="".join(sorted(i))
