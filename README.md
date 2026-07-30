@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0242-valid-anagram) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
