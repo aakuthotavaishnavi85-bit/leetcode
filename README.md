@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
