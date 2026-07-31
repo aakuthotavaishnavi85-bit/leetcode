@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0203-remove-linked-list-elements) |
