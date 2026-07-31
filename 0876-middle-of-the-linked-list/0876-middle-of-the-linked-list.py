@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head is None:
+        """if head is None:
             return None
         if head.next is None:
             return head
@@ -27,5 +27,13 @@ class Solution:
                 slow=slow.next 
                 fast=fast.next.next
                 if fast.next is None:
-                    return slow
+                    return slow"""
+        if not head and not head.next:
+            return head
+        slow=head
+        fast=head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+        return slow
         
