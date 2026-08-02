@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0206-reverse-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
