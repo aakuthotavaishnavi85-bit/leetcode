@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0055-jump-game) |
 | [0283-move-zeroes](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1406-stone-game-iii) |
 ## Stack
