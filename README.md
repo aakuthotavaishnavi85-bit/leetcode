@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0242-valid-anagram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3731-find-missing-elements) |
 ## Combinatorics
