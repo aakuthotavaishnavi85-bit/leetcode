@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0455-assign-cookies) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
