@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/0242-valid-anagram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3731-find-missing-elements) |
 ## Combinatorics
