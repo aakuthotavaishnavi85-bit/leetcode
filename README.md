@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aakuthotavaishnavi85-bit/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
